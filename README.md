@@ -1,5 +1,6 @@
 ## Hi there!
-I'm **KelvinY**, a passionate 15-year-old **self-taught coder**. I really enjoy coding! I mainly do **frontend** development, currently learning JavaScript and Python. I hope I can be a great developer in the future, working a job that I truly love.
+I'm Kelvin, a passionate 15-year-old self-taught coder. I started coding two years ago in Roblox Studio, but later transitioned into web development. I also like chemistry, and I hope to become a great developer in the future :D
 
 ## TechStack & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,discord,git,figma,github,codepen,vscode,windows&theme=dark)](https://skillicons.dev)
+[![My skills (row 1)](https://skillicons.dev/icons?i=c,html,css,js,py,bash,regex,tailwind&theme=dark)](https://skillicons.dev)
+[![My skills (row 2)](https://skillicons.dev/icons?i=github,figma,nodejs,cloudflare,powershell,vscode,vue&theme=dark)](https://skillicons.dev)
