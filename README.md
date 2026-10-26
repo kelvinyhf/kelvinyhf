@@ -1,4 +1,4 @@
-## Hi there!
+# Hi there!
 I'm a **passionate** 15-year-old self-taught programmer. I started coding two years ago in Roblox Studio, but later got into **web development**. I also like **chemistry**, and I hope I can be a great developer in the future :D
 
 ## TechStack & Tools
